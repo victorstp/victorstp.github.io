@@ -72,7 +72,11 @@ header h1 {
 }
 
 
-
+.addthis_toolbox {
+  width: 160px;
+  margin: 20px auto;
+  display: block;
+}
 
 
 
