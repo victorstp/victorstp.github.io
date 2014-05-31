@@ -1,3 +1,26 @@
+@charset "utf-8";
+
+body, h1, h2, h3, h4,
+form, fieldset, input, label, p,
+em, strong, a, img, ul, li {
+  vertical-align: baseline;
+  font-style: normal;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body {
+  background: #fafafa;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+  font-size: 16px;
+  vertical-align: baseline;
+  color: rgb(71, 60, 60);
+}
+
+
 header h1 {
   background: url(https://cloud.githubusercontent.com/assets/7530044/3139550/d0d590ea-e8e2-11e3-9de6-b1fc1cee7882.png);
   width: 295px;
