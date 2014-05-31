@@ -41,7 +41,7 @@ header h1 {
 
 .main {
   width: 100%;
-  margin-top: 60px;
+  margin-top: 50px;
 }
 
 .main address {
@@ -54,9 +54,17 @@ header h1 {
   display: block;
   width: 100%;
   color: #eb6736;
+  text-decoration: none;
 }
 
 .main address em {
+  text-align: center;
+  display: block;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.main address p {
   text-align: center;
   display: block;
   width: 100%;
