@@ -30,10 +30,16 @@ header h1 {
   display: block;
 }
 
+.divisor {
+  margin-top: 30px;
+  background: #ec6837;
+  width: 100%;
+  height: 8px;
+  border-top: 8px solid #b82c2b;
+  border-bottom: 8px solid #f98d66;
+}
 
 .main {
-  background: #F29060;
   width: 100%;
   margin-top: 40px;
-  border-top: 3px solid #EC6837;
 }
